@@ -13,9 +13,9 @@ EndScreen overgenomen van team genoot.
 
 // NOAH BIJDRAGE PROJECT //
 
-Taken: AI, LEVEL 4, EndScreen
+Taken: Ticks, LEVEL 4, EndScreen
 
-Ik heb mij bezig gehouden met de AI en met mijn eigen level. AI omvat alles dat de verloop van de simulatie bijhhoudt,
+Ik heb mij bezig gehouden met de Ticks en met mijn eigen level. Ticks omvat alles dat de verloop van de simulatie bijhhoudt,
 waaronder het jaar en de huidige CO2. Ook de scripts om de simulatie te versnellen, vertragen en pauseren, om het huidige jaartal weer
 te geven en om bepaalde evenementen te laten gebeuren in het spel.
 Ook heb ik level 4 gemaakt. Hierin zie je een wildernis gebied met dieren, bomen en een rivier.
